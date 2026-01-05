@@ -92,15 +92,3 @@ This project, including its code and resources, is intended solely for education
 
 
 
-flowchart TD
-    A[Log Message]
-
-    A --> B[Regex Classifier]
-
-    B --> C[Valid Class]
-    B --> D[None]
-
-    D --> E{Source == Legacy CRM?}
-
-    E -->|Yes| F[LLM Classification]
-    E -->|No| G[Logistic Regression]
