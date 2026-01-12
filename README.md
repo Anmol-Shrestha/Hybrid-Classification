@@ -1,10 +1,4 @@
 
-# List of Modifications made to the original project
-**Modifications**
-The guided project still had room for improvements, here are some improvements that I made
-1. I added more patterns to the regex classifier which increased number of records that could be classified by the regex classifier from ~20% to ~60%.
-2. I conducted evaluation of the regex classifier.
-3. I have added analysis report where key findings and explanations are present.
 
 # Log Classification With Hybrid Classification Framework
 
